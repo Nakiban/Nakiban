@@ -1,8 +1,10 @@
 ## Bem Vindo !!!
-SOu desenvolvedor web backend ja algum tempo todos os projetos que encontrar sao apenas meus hoobys
+Sou desenvolvedor web backend ja algum tempo todos os projetos que encontrar sao apenas meus hoobys
 sim eu programo por hooby e do meu hooby transformei em minha profissão.
 
 Seja bem vindo.
+
+- Qual minha stack ??? A que eu escolher pro dia.
 
 <!---
 Nakiban/Nakiban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
